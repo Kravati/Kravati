@@ -2,7 +2,7 @@
 - 👀 I’m interested in testing
 - 🌱 I’m currently learning C# and some HTTP magic
 - 💞️ I’m looking to collaborate on something BIG
-- 📫 How to reach me? Write @ lukaszopion@gmail.com
+- 📫 How to reach me? Write @ killerm0use@protonmail.com
 
 <!---
 Kravati/Kravati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
