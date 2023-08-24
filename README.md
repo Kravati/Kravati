@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kravati
 - 👀 I’m interested in testing
-- 🌱 I’m currently learning C# and some HTTP magic
+- 🌱 I’m currently learning Python and some IoT magic
 - 💞️ I’m looking to collaborate on something BIG
 - 📫 How to reach me? Write @ killerm0use@protonmail.com
 
